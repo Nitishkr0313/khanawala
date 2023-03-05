@@ -3,3 +3,4 @@ const Body=()=>{
         <h1>Body Page!</h1>
     )
 }
+export default Body;
